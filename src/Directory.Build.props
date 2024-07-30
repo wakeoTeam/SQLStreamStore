@@ -2,14 +2,14 @@
 <Project>
   <PropertyGroup>
     <Authors>Damian Hickey</Authors>
-    <PackageProjectUrl>https://github.com/SqlStreamStore/SqlStreamStore</PackageProjectUrl>
+    <PackageProjectUrl>https://github.com/wakeoTeam/SQLStreamStore</PackageProjectUrl>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <GenerateDocumentationFile>true</GenerateDocumentationFile>
     <PackageTags>cqrs;event-sourcing;event-store;stream-store</PackageTags>
     <NoWarn>$(NoWarn);1701;1702;1705;1591</NoWarn>
     <LangVersion>7.3</LangVersion>
     <MinVerTagPrefix>v</MinVerTagPrefix>
-    <MinVerMinimumMajorMinor>1.2</MinVerMinimumMajorMinor>
+    <MinVerMinimumMajorMinor>1.3</MinVerMinimumMajorMinor>
     <DebugType>full</DebugType>
     <PublishRepositoryUrl>true</PublishRepositoryUrl>
     <AllowedOutputExtensionsInPackageBuildOutputFolder>$(AllowedOutputExtensionsInPackageBuildOutputFolder);.pdb</AllowedOutputExtensionsInPackageBuildOutputFolder>
